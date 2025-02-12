@@ -1,0 +1,19 @@
+# Streamlit for creating the web application
+streamlit
+
+# Additional dependencies for RAG (Retrieval-Augmented Generation) functionality
+# These are examples and may need to be adjusted based on the specific implementation
+transformers
+torch
+faiss-cpu
+
+# Other common dependencies
+numpy
+pandas
+scikit-learn
+
+# For handling environment variables (if needed)
+python-dotenv
+
+# For making HTTP requests (if needed)
+requests
