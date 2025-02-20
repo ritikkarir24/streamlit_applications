@@ -36,7 +36,7 @@ streamlit run app.py
 Configure the application through `config.yaml`:
 ```yaml
 model_settings:
-  model_name: "gpt-4"
+  model_name: "deepseek-r1"
   temperature: 0.7
   max_tokens: 1000
 
